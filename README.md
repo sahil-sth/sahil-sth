@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sahil-sth
 - 👀 I’m interested in web development, network security, software development.
 - 🌱 I’m currently doing Bachelor's in Computing Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web development.
 - 📫 How to reach me ...
 
 <!---
